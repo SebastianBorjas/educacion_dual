@@ -22,7 +22,7 @@
             <img src="recursos/imagenes/logo-formulario.png" alt="Logo del formulario">
         </div>
         <div class="login-header">
-            <h1>Iniciar Sesión - OTra prueba</h1>
+            <h1>Iniciar Sesión</h1>
         </div>
         <form action="includes/inicio_sesion.php" method="POST">
             <div class="form-group">
